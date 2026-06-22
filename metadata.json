@@ -1,0 +1,6 @@
+{
+  "name": "Secure Cryptography Toolkit",
+  "description": "An interactive, modern educational cryptography lab demonstrating Symmetric Encryption (AES-GCM), Asymmetric Encryption (RSA-OAEP), SHA-256 Hashing, Hybrid Key Exchange, and Digital Signatures with a real-time console log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
